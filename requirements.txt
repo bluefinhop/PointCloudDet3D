@@ -1,0 +1,12 @@
+llvmlite
+numpy
+torch==1.6.0 
+torchvision==0.7.0
+numba
+tensorboardX
+easydict
+pyyaml
+scikit-image
+tqdm
+SharedArray
+vtk==8.1.2
